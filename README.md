@@ -32,7 +32,7 @@
   - [Enterprise SaaS Comparison Table](#-enterprise-saas-comparison-table)
   - [Detailed SaaS Profiles](#-detailed-saas-profiles)
 - [🌐 Open-Source Testing Frameworks](#-open-source-testing-frameworks)
-  - [Open-Source Solutions Ranked by GitHub Stars](#-open-source-solutions-ranked-by-github-stars)
+  - [Open-Source Solutions Ranked by GitHub_Stars](#-open-source-solutions-ranked-by-github-stars)
 - [🧭 Decision Matrix: SaaS vs. Open-Source](#-decision-matrix-saas-vs-open-source)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [💖 Support & Community](#-support--community)
@@ -152,9 +152,9 @@ Enterprise SaaS and commercial testing suites are engineered for multi-system re
 
 Open-source frameworks provide total infrastructure sovereignty, zero per-seat licensing costs, and complete flexibility for engineering teams building custom business workflow validation engines.
 
-### 🌟 Open-Source Solutions Ranked by GitHub Stars
+### 🌟 Open-Source Solutions Ranked by GitHub_Stars
 
-> *Note: Ranked in descending order of stargazers count. Click the star badge beside any repository to inspect its stargazers.*
+> *Note: Ranked in descending order of stargazers count. Click the Stars_Badge beside any repository to inspect its stargazers.*
 
 ---
 
@@ -257,7 +257,7 @@ Contributions from QA engineers, enterprise test architects, and software develo
    ```bash
    git checkout -b feature/add-new-testing-tool
    ```
-3. 📝 **Add your entry** in the appropriate section following the existing table or list format (include exact pricing/limits or star badge).
+3. 📝 **Add your entry** in the appropriate section following the existing table or list format (include exact pricing/limits or Stars_Badge).
 4. 💾 **Commit your changes:**
    ```bash
    git commit -m "docs: add [Tool Name] to business process testing list"
